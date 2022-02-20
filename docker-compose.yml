@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pytorchtutorials:
+    image: pytorchtutorials
+    build:
+      context: .
+      dockerfile: ./Dockerfile

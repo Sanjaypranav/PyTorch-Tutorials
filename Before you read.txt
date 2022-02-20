@@ -1,0 +1,15 @@
+Hey! I wish you all the best and thanks for going through my tutorials 
+I hope i will cover most of PyTorch for Deep Learning
+
+I am Sanjaypranav from India, I'm living in a rural place 
+where i hardly get internet, I have given my effort to write this repository
+so if you have any queries you can contact me on twitter @Sanjaypranav_AI and
+thanks :)
+
+>3 Introduction.py 
+>3 Basic_Manipulation.py
+>3 optimizers_and_loss_functions.py
+>3 Autograd.py
+>3 Building_model.py
+>3 Dataloader.py
+>3 Imnet.py
