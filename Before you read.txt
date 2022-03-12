@@ -9,6 +9,7 @@ thanks :)
 >3 Introduction.py 
 >3 Basic_Manipulation.py
 >3 optimizers_and_loss_functions.py
+>3 optimizers.py
 >3 Autograd.py
 >3 Building_model.py
 >3 Dataloader.py
