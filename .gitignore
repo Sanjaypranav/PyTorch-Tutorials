@@ -1,1 +1,8 @@
 pytorch
+MNIST_data
+.idea
+__pycache__
+dataset
+Load_Data
+data
+FashionMNIST
