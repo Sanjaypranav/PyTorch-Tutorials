@@ -32,13 +32,12 @@ labels_map = {
     9: "Ankle Boot",
 }
 
-
 train_dataloader = DataLoader(training_data, batch_size=60000, shuffle=True)
 test_dataloader = DataLoader(test_data, batch_size=10000, shuffle=True)
 
 train_features, train_labels = next(iter(train_dataloader))
 test_features, test_labels = next(iter(test_dataloader))
 
-
 print('Training data size =',train_features.size(), len(train_labels))
 print('Testing data size',test_features.size(),len(train_labels))
+
