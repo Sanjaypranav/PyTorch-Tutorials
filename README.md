@@ -8,4 +8,4 @@ Getting image from sensors (Mobile or Camera). In simple words non-digital form 
 
 ### Image Enhancement
  operations or tasks performed on image for example filtering and processing image such as noise removal, contrast brightness and deblurring images 
- 
+  
