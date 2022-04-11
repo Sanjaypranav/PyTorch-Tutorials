@@ -11,6 +11,13 @@ For Conda environment
 
     conda install -r requirements.txt
 
+## Introduction to PyTorch
+
+PyTorch is an open source python deep learning framework, developed primarily by Facebook that has been gaining momentum
+recently. It provides the Graphics Processing Unit (GPU), an accelerated multidimensional array (or tensor) operation, and computational graphs, which we can be used to build
+neural networks.
+
+
 ## Fashion - MNIST
 ### Transforming and augmenting images
 
