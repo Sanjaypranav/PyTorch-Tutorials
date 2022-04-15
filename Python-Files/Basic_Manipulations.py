@@ -57,3 +57,6 @@ print("b from numpy \n",b)
 a += 1
 print("a = ",a)
 print("b = ",b)
+
+t =torch.rand(2,2)
+print("t = ",t.view(1,4))
